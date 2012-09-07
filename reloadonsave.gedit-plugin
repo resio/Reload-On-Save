@@ -1,0 +1,9 @@
+[Gedit Plugin]
+Loader=python
+Module=reloadonsave
+IAge=2
+Name=Reload on save
+Description=Automatically reload firefox tab/page when document is saved.
+Authors=lyrae
+Copyright=Copyright (C) 2010 lyrae
+Website=None
